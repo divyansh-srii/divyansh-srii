@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @divyansh-srii or as known by my human peers, Divyansh Srivastava
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning DevOps
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning DevOps and loving Sport Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me divyansh1185@gmail.com
 
