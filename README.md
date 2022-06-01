@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @divyansh-srii or as known by my human peers, Divyansh Srivastava
+- 🏫 I'm currenly pursuing Bachelors' from IIT(ISM) Dhanbad in Electronics & Communication Engineering.
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning DevOps and loving Sport Programming
 - 💞️ I’m looking to collaborate on ...
